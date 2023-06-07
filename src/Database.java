@@ -6,7 +6,7 @@ import java.util.*;
 public class Database {
 	Connection con = null;
 	Statement stmt = null;
-	static String url = "jdbc:mysql://113.198.233.128:4001/test";	
+	static String url = "jdbc:mysql://Localhost:3306/test";	
 	static String user = "shiru";
 	static String passwd = "1234";
 

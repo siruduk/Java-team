@@ -7,8 +7,8 @@ public class Database {
 	Connection con = null;
 	Statement stmt = null;
 	static String url = "jdbc:mysql://Localhost:3306/test";	
-	static String user = "shiru";
-	static String passwd = "1234";
+	static String user = "";
+	static String passwd = "";
 
 	
 	//조회
